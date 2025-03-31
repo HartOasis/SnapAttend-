@@ -1,0 +1,15 @@
+[
+    {
+        "first_name": "asma",
+        "last_name": "Smith",
+        "employee_id": "asma122",
+        "email": "jane.smith@example.com",
+        "position": "HR Manager",
+        "department": "cotent editor",
+        "updated_at": "2025-03-14 12:00:37",
+        "password": "asma",
+        "profile_image": "profile_67d41a6508aef_20250314.jpeg",
+        "id": 2,
+        "created_at": "2025-03-14 13:00:00"
+    }
+]
